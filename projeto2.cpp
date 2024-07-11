@@ -4,6 +4,7 @@
 #include <map>
 #include <fstream>
 #include <sstream>
+#include <windows.h>
 
 using namespace std;
 
@@ -108,6 +109,8 @@ void adicionarFilme(vector<Filme>& filmes) {
 }
 
 int main() {
+    SetConsoleOutputCP(CP_UTF8);
+    SetConsoleCP(CP_UTF8);
     vector<Filme> filmes;
     carregarFilmes(filmes);
 
