@@ -1,0 +1,51 @@
+Para todos os garotos que eu já amei,Romance,32 33 34 35 36 37 38 39 40
+Barraca do beijo,Romance,31 33 34 35 36 37 38 39 40
+Todos menos você,Romance,31 32 34 35 36 37 38 39 40
+10 coisas que eu odeio em você,Romance,31 32 33 35 36 37 38 39 40
+After,Romance,31 32 33 34 36 37 38 39 40
+A culpa das estrelas,Romance,31 32 33 34 35 37 38 39 40
+A cinco passos de você,Romance,31 32 33 34 35 36 38 39 40
+Simplesmente acontece,Romance,31 32 33 34 35 36 37 39 40
+Com amor Simon,Romance,31 32 33 34 35 36 37 38 40
+Vermelho branco sangue azul,Romance,31 32 33 34 35 36 37 38 39
+Toy Story,Infantil,42 43 44 45 46 47 48 49 50 51
+Elementos,Infantil,41 43 44 45 46 47 48 49 50 51
+Divertidamente,Infantil,41 42 44 45 46 47 48 49 50 51
+Monstros S.A,Infantil,41 42 43 45 46 47 48 49 50 51
+Carros,Infantil,41 42 43 44 46 47 48 49 50 51
+Ratatouille,Infantil,41 42 43 44 45 47 48 49 50 51
+Moana,Infantil,41 42 43 44 45 46 48 49 50 51
+Frozen,Infantil,41 42 43 44 45 46 47 49 50 51
+Minions,Infantil,41 42 43 44 45 46 47 48 50 51
+Valente,Infantil,41 42 43 44 45 46 47 48 49 51
+Procurando nemo,Infantil,41 42 43 44 45 46 47 48 49 50
+O massacre da serra elétrica,Terror,53 54 55 56 57 58 59 60 61
+Pânico,Terror,52 54 55 56 57 58 59 60 61
+Sexta-feira 13,Terror,52 53 55 56 57 58 59 60 61
+A hora do pesadelo,Terror,52 53 54 56 57 58 59 60 61
+Sorriso,Terror,52 53 54 55 57 58 59 60 61
+Pearl,Terror,52 53 54 55 56 58 59 60 61
+X- A marca da morte,Terror,52 53 54 55 56 57 59 60 61
+Terrifer,Terror,52 53 54 55 56 57 58 60 61
+Jogos Mortais,Terror,52 53 54 55 56 57 58 59 61
+Halloween,Terror,52 53 54 55 56 57 58 59 60
+Minha mãe é uma peça,Comédia,63 64 65 66 67 68 69 70 71 72
+As branquelas,Comédia,62 64 65 66 67 68 69 70 71 72
+Meninas malvadas,Comédia,62 63 65 66 67 68 69 70 71 72
+Se beber não case,Comédia,62 63 64 66 67 68 69 70 71 72
+Vizinhos,Comédia,62 63 64 65 67 68 69 70 71 72
+To ryca!,Comédia,62 63 64 65 66 68 69 70 71 72
+TED,Comédia,62 63 64 65 66 67 69 70 71 72
+Gente grande,Comédia,62 63 64 65 66 67 68 70 71 72
+Todo mundo em pânico,Comédia,62 63 64 65 66 67 68 69 71 72
+Uma noite no museu,Comédia,62 63 64 65 66 67 68 69 70
+Tropa de elite,Ação,74 75 76 77 78 79 80 81 82 83
+Vingadores Ultimato,Ação,73 75 76 77 78 79 80 81 82 83
+Homem aranha de volta para casa,Ação,73 74 76 77 78 79 80 81 82 83
+Jogos vorazes,Ação,73 74 75 77 78 79 80 81 82 83
+Velozes e furiosos,Ação,73 74 75 76 78 79 80 81 82 83
+Batman,Ação,73 74 75 76 77 79 80 81 82 83
+Divergente,Ação,73 74 75 76 77 78 80 81 82 83
+Planeta dos macacos,Ação,73 74 75 76 77 78 79 81 82 83
+Mad max,Ação,73 74 75 76 77 78 79 80 82 83
+Guerra Civil,Ação,73 74 75 76 77 78 79 80 81 83
